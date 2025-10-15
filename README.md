@@ -20,7 +20,5 @@ I'm a passionate **Computer Engineering student** interested in **Computer Netwo
 
 ## Get in Touch 📬
 
-- **LinkedIn**: (https://www.linkedin.com/in/armin-servati-4bb558374/)
-- **Email**: (arminservatiasl@gmail.com)
-
-
+- **LinkedIn**: https://www.linkedin.com/in/armin-servati-4bb558374
+- **Email**: arminservatiasl@gmail.com
