@@ -66,7 +66,7 @@ Armin = {
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arminestian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00AA&text_color=ffffff" alt="GitHub stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arminestian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&langs_count=10" alt="Top languages" />
@@ -75,7 +75,7 @@ Armin = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=arminestian&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=FF00AA&fire=FFAA00&currStreakLabel=00F7FF" alt="GitHub streak" />
 
-</div>
+</div> -->
 
 ---
 
