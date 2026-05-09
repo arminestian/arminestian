@@ -1,24 +1,127 @@
-# Hi there, I'm Armin Servati! 👋
+<div align="center">
 
-## About Me 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=Armin&fontSize=86&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Deep%20Learning%20%C2%B7%20Networking&descAlignY=58&descSize=18" width="100%" />
 
-I'm a passionate **Computer Engineering student** interested in **Computer Networks**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Gradients+flow+backward.+Learning+flows+forward.;Weights+remember.+Activations+decide.;Loss+is+a+compass.+Backprop+is+the+map.;Every+epoch+is+a+second+chance." alt="Typing animation" />
+</a>
 
-- 🌱 Currently learning: **Game designing using Unity game engine**
-- 🔭 Working on: **"Open Share" local file transfer app**
-- 🌍 Languages: **Python, Rust, Java**
-- 📫 How to reach me: **arminservatiasl@gmail.com**
+<br/><br/>
 
-## My Skills 🧠
+[![Profile Views](https://komarev.com/ghpvc/?username=arminestian&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge&abbreviated=true)](https://github.com/arminestian)
+[![GitHub followers](https://img.shields.io/github/followers/arminestian?label=FOLLOWERS&style=for-the-badge&color=ff00aa&labelColor=000000)](https://github.com/arminestian?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/arminestian?label=STARS&style=for-the-badge&color=ffaa00&labelColor=000000)](https://github.com/arminestian)
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+</div>
+
+---
+
+```python
+Armin = {
+    "name": "Armin",
+    "pronouns": "He" | "Him",
+    "ai_ml": ["Deep Learning", "Neural Networks"],
+    "networking": ["TCP/IP", "SDN", "Network Telemetry", "Packet Analysis"],
+    "philosophy": "Every packet tells a story. Every gradient finds a path.",
+}
+```
+
+---
+
+<details open>
+<summary><b>Machine Learning &amp; Deep Learning</b></summary>
+
+<br/>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+<details>
+<summary><b>Languages & Tools</b></summary>
+
+<br/>
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)
+
+**Networking**
+
+![WireShark](https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-%23ED1944?logo=openstack&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white)
+![Mininet](https://img.shields.io/badge/Mininet-0055AA?logo=network&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+
+</details>
+
+---
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arminestian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00AA&text_color=ffffff" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arminestian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&langs_count=10" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=arminestian&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=FF00AA&fire=FFAA00&currStreakLabel=00F7FF" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arminestian&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random programming quote" width="80%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/arminestian">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/armin-servati-4bb558374">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:arminservatiasl@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 
-## Get in Touch 📬
+</div>
 
-- **LinkedIn**: https://www.linkedin.com/in/armin-servati-4bb558374
-- **Email**: arminservatiasl@gmail.com
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=100&section=footer" width="100%"/>
+
+</div>
