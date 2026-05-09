@@ -19,7 +19,6 @@
 ```python
 Armin = {
     "name": "Armin",
-    "pronouns": "He" | "Him",
     "ai_ml": ["Deep Learning", "Neural Networks"],
     "networking": ["TCP/IP", "SDN", "Network Telemetry", "Packet Analysis"],
     "philosophy": "Every packet tells a story. Every gradient finds a path.",
